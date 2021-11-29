@@ -1,3 +1,3 @@
-# Visit https://salaadas.github.io/typing_suck_ass/ for type testing
+# Visit https://typing-suck-ass.netlify.app/ for type testing
 
 good luck brother
