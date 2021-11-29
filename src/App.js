@@ -1,5 +1,5 @@
 import { generate } from './utils/words';
-import { currentTime, time } from './utils/time';
+import { currentTime } from './utils/time';
 import useKeyPress from './hooks/useKeyPress';
 import './App.css';
 import { useState } from 'react';
