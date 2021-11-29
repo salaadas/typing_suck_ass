@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  font-family: monospace;
+  font-size: 3rem;
+}
+
+.header {
+  font-weight: bold;
+}
+
+.Character {
+  white-space: pre;
+}
+
+.Character-current {
+  background-color: #09d3ac;
+}
+
+.Character-out {
+  color: silver;
 }
 
 .App-logo {
@@ -13,14 +31,25 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+.App-header-butt {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1rem);
+  background-color: #d4dabb;
+  color: rgb(10, 14, 19);
+}
+
+.App-header-normal {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1rem);
+  background-color: #282c34;
   color: white;
 }
 
